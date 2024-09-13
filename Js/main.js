@@ -24,3 +24,6 @@ let swiperCards = new Swiper(".card__content", {
     },
   },
 });
+$("#myCarousel").carousel({
+  interval: false
+});
