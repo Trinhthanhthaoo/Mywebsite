@@ -67,3 +67,6 @@ $(window).scroll(function () {
     }
 })
 
+$("#myCarousel").carousel({
+    interval: false
+  });
